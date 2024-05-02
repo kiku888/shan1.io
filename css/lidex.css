@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+}
+.div2{
+    height: 710px;
+    /* background-color: wheat; */
+    overflow: hidden;
+}
+.div2-1{
+    width: 50%;
+    height: 710px;
+    /* background-color: red; */
+    float: left;
+    /* font-weight: bold; */
+    font-size: 20px;
+
+}
+.div2-2{
+    width: 50%;
+    height: 710px;
+    /* background-color: blue; */
+    float: right;
+}
+.div2-2 img{
+    width: 365px;
+    height: 233px;
+}
+.div3{
+    height: 30px;
+    background-color: black;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
